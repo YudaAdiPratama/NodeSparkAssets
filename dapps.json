@@ -1,0 +1,14 @@
+[
+  { "name": "Uniswap",     "url": "https://app.uniswap.org" },
+  { "name": "PancakeSwap", "url": "https://pancakeswap.finance" },
+  { "name": "Aave",        "url": "https://app.aave.com" },
+  { "name": "1inch",       "url": "https://app.1inch.io" },
+  { "name": "OpenSea",     "url": "https://opensea.io" },
+  { "name": "Lido",        "url": "https://stake.lido.fi" },
+  { "name": "Curve",       "url": "https://curve.finance" },
+  { "name": "GMX",         "url": "https://app.gmx.io" },
+  { "name": "Compound",    "url": "https://app.compound.finance" },
+  { "name": "dYdX",        "url": "https://dydx.exchange" },
+  { "name": "Rarible",     "url": "https://rarible.com" },
+  { "name": "CoinGecko",   "url": "https://www.coingecko.com" }
+]
